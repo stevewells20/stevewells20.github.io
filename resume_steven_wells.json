@@ -1,0 +1,163 @@
+{
+  "name": "Steven P. Wells",
+  "age": 30,
+  "website": "https://stevewells20.github.io/",
+  "interests": [
+    "Robotics",
+    "Computer Vision",
+    "Machine Learning",
+    "Automatic Optimization",
+    "Game Theory",
+    "Innovative Design",
+    "Minimalist Programming",
+    "Microcontrollers and Distributed Systems"
+  ],
+  "work history": {
+    "United States Marine Corps": {
+      "duration": [2009, 2014],
+      "final position": [
+        "Sergeant E-5",
+        "Lead Forcaster",
+        "Training Officer"
+      ],
+      "skills": [
+        "Team Leadership",
+        "Logistics",
+        "Problem Analysis",
+        "Statistical Analysis",
+        "Impact and Capabilities Analysis",
+        "Professional Speaking and Presentation",
+        "Graphical Design and Data Representation",
+        "Critical Decision Making",
+        "Senior Officer Advising and Consultation",
+        "Perl",
+        "Javascript",
+        "R-lang"
+      ],
+      "achievements": [
+        "Good Conduct Medal",
+        "Humanitarian Aid Medal",
+        "etc.. (too many to list)"
+      ]
+    },
+    "SiteStyle LLC": {
+      "duration": [2015, null],
+      "final position": [
+        "Owner / Operator"
+      ],
+      "skills": [
+        "Website Development",
+        "Administration and Documentation",
+        "Marketing and Advertising",
+        "Security and Threat Mitigation",
+        "Database Management",
+        "Officer Level Innovation and Execution"
+      ]
+    },
+    "Friends of Paul Evans": {
+      "duration": [2016, null],
+      "final position": [
+        "Technology Consultant",
+        "Website Administrator",
+        "Campaign Officer (Technology)"
+      ],
+      "skills": [
+        "Graphic Design",
+        "Technology Comparison & Acquisition",
+        "Professional Communication",
+        "Officer Level Advising and Discussion"
+      ],
+      "achievements": [
+        "2 Successful Campaigns",
+        "30,000+ Views Advertising Initiative"
+      ]
+    },
+    "OSU Robotics Club": {
+      "duration": [2017, null],
+      "final position": [
+        "Web Development Officer",
+        "Underwater ROV Team CS Lead",
+        "Aerial Team Computer Vision Lead"
+      ],
+      "skills": [
+        "Basic Electrical Engineering / Prototyping (Breadboard, Soldering)",
+        "Distributed Microcontroller System Design (I2C, SPI, MQTT)",
+        "Real Time Minimal Latency Video Streaming (GStreamer, WebRTC)",
+        "Basic 3D Design and Printing (SolidWorks)",
+        "Electronics Waterproofing",
+        "Computer Vision (OpenCV)",
+        "Machine Learning (TF, Keras, Torch)",
+        "NVidia SOC's and CUDA (Jetson TK1, TX1, TX2)",
+        "Officer Level Meeting, Presentation, and Discussion",
+        "C, C++, JS, NodeJS, Python"
+      ],
+      "achievements": [
+        "Initiated and completed total physical redesign of UW ROV",
+        "Built entire codebase for UW ROV from ground up",
+        "Designed Computer Vision system w/ Neural Net Transfer Learning"
+      ]
+    }
+  },
+  "education": {
+    "degrees": ["HS Diploma","Assoc. CS credit equivalent"],
+    "Chemeketa Community College": {
+      "duration": [2016, 2018],
+      "relevent classes": [
+        "CS160 Introduction Computer Science",
+        "CS161 & 162, Computer Science 1 & 2",
+        "CS260 Computer Science 3: Data Structures & Algorithms",
+        "CS271 Computer Architecture and Assembly",
+        "PH211 & 212 Physics for Scientists and Engineers",
+        "MTH111, MTH112, MTH231, MTH251, MTH252, MTH253"
+      ]
+    },
+    "Oregon State University": {
+      "duration": [2018, null],
+      "relevent classes": [
+        "CS175: Communications Security and Social Movements",
+        "CS290 Web Development",
+        "ECE271 Digital Logic Design"
+      ]
+    }
+  },
+  "standard buzzwords": [
+    "team oriented",
+    "mediator",
+    "problem solver",
+    "communicator",
+    "innovator",
+    "external thinker",
+    "analytical",
+    "synergy ;D"
+  ],
+  "references": {
+    "Rep. Paul Evans": {
+      "titles": [
+        "Oregon House Representative of District 20",
+        "USAF Major",
+        "Professor of Communications at Chemeketa Community College"
+      ],
+      "email": "paul@paulevans.org",
+      "website": "www.paulevans.org/",
+      "relationship": "Employer and friend"
+    },
+    "Dr. Molly Mayhead": {
+      "titles": [
+        "Ph.D., Communication and Media Studies",
+        "Professor, Communications Studies at Western Oregon University",
+        "Ordained Minister, Universal Life Church"
+      ],
+      "email": "mayheam@wou.edu",
+      "relationship": "Coworker, manager, and friend"
+    },
+    "Jorian Bruslind": {
+      "titles": [
+        "Oregon State University Undergraduate",
+        "OSU Robotics Club President",
+        "Underwater ROV Team Electrical Engineering Lead"
+      ],
+      "email": "https://fa.oregonstate.edu/user/34821/contact",
+      "relationship": "Peer, manager, friend"
+    }
+  }
+}
