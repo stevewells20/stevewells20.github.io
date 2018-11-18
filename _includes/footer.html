@@ -1,0 +1,31 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <a href="/about/"><h2 class="footer-heading">{{ site.title }}</h2></a>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>email:</li>
+          <!--li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li-->
+          <li>{{ site.email }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+          Projects:<br>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+        </ul>
+      </div>
+  </div>
+</footer>
+

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div>
+      {% include header.html %}
+    </div>
+    <div class="page-content" style="margin-bottom: 15%; 
+margin-top: 7%;">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    <div>
+    {% include footer.html %}
+    </div>
+    <script src="/static/js/jquery-1.11.2.min.js" 
+type="text/javascript"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+  </body>
+</html>

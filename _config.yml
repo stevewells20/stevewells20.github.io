@@ -1,0 +1,8 @@
+title: Steven P. Wells
+email: stevewells20@gmail.com
+descriptions: > #ignore newline chars
+  This is a great site description =D
+baseurl: "" #subpath to site, like /blog/ or whatevs
+url: "http://stevewells20.github.io"
+github_username: stevewells20
+
